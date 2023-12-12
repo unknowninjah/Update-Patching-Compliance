@@ -1,0 +1,1 @@
+0 0 * * *       root /usr/local/bin/update-patching-compliance >> /opt/update_cron_log.log 2>&1
